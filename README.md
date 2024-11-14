@@ -21,11 +21,11 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-    <a href="https://twitter.com/safeer ahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safeer ahmed" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/safeer ahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safeer ahmed" height="30" width="40" /></a>
-    <a href="https://fb.com/safeer ahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safeer ahmed" height="30" width="40" /></a>
-    <a href="https://instagram.com/safeerrana54" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safeerrana54" height="30" width="40" /></a>
-    <a href="https://discord.gg/virgorebel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="virgorebel" height="30" width="40" /></a>
+    <a href="https://x.com/SafeerVlogs" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safeer ahmed" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/safeer-ahmed-rana/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safeer ahmed" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/Safeer.na35/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safeer ahmed" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/safeerrana54/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safeerrana54" height="30" width="40" /></a>
+    <a href="https://discord.gg/764DJ5xP56" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="virgorebel" height="30" width="40" /></a>
 </p>
 
 ---
