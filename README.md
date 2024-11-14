@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![logo](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi there 👋, I'm Safeer Ahmed Rana</h1>
 <h3 align="center">A Software Engineer dedicated to creating interactive and immersive digital experiences.</h3>
 
