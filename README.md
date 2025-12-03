@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkd3ljbGxnMjI3NXJvcGh1cHQxNGZudmhua2MwcHBncmV4NDY4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="960" height="600" alt="logo" />
 
 <h1 align="center">Hi there 👋, I'm Noman Khan</h1>
-<h3 align="center">Frontend Developer at Evamp & Saanga</h3>
+<h3 align="center">Full-Stack Developer at Evamp & Saanga</h3>
 
 ---
 
